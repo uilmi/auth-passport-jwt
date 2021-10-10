@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ulul",
+    "password": "canggih",
+    "database": "db_auth_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ulul",
+    "password": "canggih",
+    "database": "db_auth_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ulul",
+    "password": "canggih",
+    "database": "db_auth_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
